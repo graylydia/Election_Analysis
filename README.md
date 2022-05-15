@@ -10,4 +10,6 @@ In this challenge, we assisted Tom in creating a Python code for an election aud
 <img width="529" alt="county_votes" src="https://user-images.githubusercontent.com/103657822/168494709-2f585ebf-4dff-4574-a1ff-2f2612d14e50.png">
 <img width="651" alt="county_percentages" src="https://user-images.githubusercontent.com/103657822/168494711-6e1cc3a1-1710-4245-9e6a-58d3a6ea9bcb.png">
 <img width="256" alt="county_votes_txt" src="https://user-images.githubusercontent.com/103657822/168494813-6648d75e-fc35-4be4-9e72-0ee68414c2bd.png">
-
+* Denver clearly had the largest county turnout with 82.8% of voters. We used an if statement to determine that it was the largest turnout. We compared the number of voters and percentages of each county to each other in the if statement. 
+<img width="710" alt="winning_county" src="https://user-images.githubusercontent.com/103657822/168495044-8a8e3af3-3005-4e93-aedb-2533415bcd55.png">
+<img width="288" alt="winning_county_txt" src="https://user-images.githubusercontent.com/103657822/168495046-2c7074ab-acef-4231-96ea-ee3ed593fce5.png">
