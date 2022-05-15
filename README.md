@@ -9,4 +9,5 @@ In this challenge, we assisted Tom in creating a Python code for an election aud
 * As for each county, Arapahoe had the least amount of voters. 24,801 people voted in Arapahoe county which is only 6.7% of total voters. Jefferson had 38,855 (10.5%) people that voted. Denver had 82.8% of voters. 306,055 people went to vote in the Denver county. We used a decision statement to first determine if the county was in the county dictionary and then added a vote to the county when running through the data. To calculate the percentages we used another for loop. 
 <img width="529" alt="county_votes" src="https://user-images.githubusercontent.com/103657822/168494709-2f585ebf-4dff-4574-a1ff-2f2612d14e50.png">
 <img width="651" alt="county_percentages" src="https://user-images.githubusercontent.com/103657822/168494711-6e1cc3a1-1710-4245-9e6a-58d3a6ea9bcb.png">
-<img width="231" alt="county_votes_txt" src="https://user-images.githubusercontent.com/103657822/168494754-0a63bd30-4435-43a5-a1a7-dfa71c4c89a3.png">
+<img width="256" alt="county_votes_txt" src="https://user-images.githubusercontent.com/103657822/168494813-6648d75e-fc35-4be4-9e72-0ee68414c2bd.png">
+
