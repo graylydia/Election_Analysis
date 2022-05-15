@@ -20,6 +20,6 @@ In this challenge, we assisted Tom in creating a Python code for an election aud
 * Diana Degette won the election by a landslide. She had 73.8% of voters from the counties which totaled to be 272,892 voters. We determined that she was the winner through an if statement by comparing all of the votes and percentages of each candidate. 
 <img width="539" alt="winning_candidate" src="https://user-images.githubusercontent.com/103657822/168495698-0d104d62-4c22-4fd6-8a7e-e70980485019.png">
 <img width="230" alt="winning_candidate_txt" src="https://user-images.githubusercontent.com/103657822/168495699-3584f0d5-a871-4c6c-a2a6-e9816cb8e635.png">
-
-
+## Election-Audit Summary
+This python code can very useful in the future for 
 
