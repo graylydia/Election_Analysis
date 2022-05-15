@@ -14,3 +14,12 @@ In this challenge, we assisted Tom in creating a Python code for an election aud
 <img width="710" alt="winning_county" src="https://user-images.githubusercontent.com/103657822/168495044-8a8e3af3-3005-4e93-aedb-2533415bcd55.png">
 <img width="288" alt="winning_county_txt" src="https://user-images.githubusercontent.com/103657822/168495046-2c7074ab-acef-4231-96ea-ee3ed593fce5.png">
 * Charles Casper Stockham, Diana Degette, and Raymon Anthony Doane were three available candidates in the US Congressional election. Raymon Doane only had 3.1% of voters which is 11,606 people. Chales Stockham had a total of 23.0% (85,213) voters. Diana DeGette had the largest amount of voters totaling 272,892 people which calculates to be 73.8%. We used the same methods to calculate the candidate information as the county information. Once again, we added the candidates name to the dictionary along with a vote when the name is found on a row of data through an if statement. As for finding the percentage of votes for each candidate we used a for loop to compare the candidates vote to the total votes. 
+<img width="543" alt="candidate_results" src="https://user-images.githubusercontent.com/103657822/168495611-ea6bfca4-f5d7-45a5-8818-906cfb91d0fc.png">
+<img width="515" alt="candidate_percentages" src="https://user-images.githubusercontent.com/103657822/168495613-64a5e670-61f6-48d6-bfe4-6db4460532e9.png">
+<img width="292" alt="candidate_results_txt" src="https://user-images.githubusercontent.com/103657822/168495621-b943c09a-7a8d-4974-b02c-c238e85d4704.png">
+* Diana Degette won the election by a landslide. She had 73.8% of voters from the counties which totaled to be 272,892 voters. We determined that she was the winner through an if statement by comparing all of the votes and percentages of each candidate. 
+<img width="539" alt="winning_candidate" src="https://user-images.githubusercontent.com/103657822/168495698-0d104d62-4c22-4fd6-8a7e-e70980485019.png">
+<img width="230" alt="winning_candidate_txt" src="https://user-images.githubusercontent.com/103657822/168495699-3584f0d5-a871-4c6c-a2a6-e9816cb8e635.png">
+
+
+
