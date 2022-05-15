@@ -21,5 +21,5 @@ In this challenge, we assisted Tom in creating a Python code for an election aud
 <img width="539" alt="winning_candidate" src="https://user-images.githubusercontent.com/103657822/168495698-0d104d62-4c22-4fd6-8a7e-e70980485019.png">
 <img width="230" alt="winning_candidate_txt" src="https://user-images.githubusercontent.com/103657822/168495699-3584f0d5-a871-4c6c-a2a6-e9816cb8e635.png">
 ## Election-Audit Summary
-This python code can very useful in the future for 
+This python code can be used in a number of different situations. For example, the code could be modified to be used for an election as small as high school president election to as high as the presidential election. Additionally, you could modify this code to do recounts. If someone were to challenge an election you could use a modified version of this code to recount the ballots in a quick, efficient method.   
 
